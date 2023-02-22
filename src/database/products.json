@@ -1,0 +1,4 @@
+[{"id":1,"title":"Banana","description":"descripcion","price":100,"thumbnail":"Sin imagen","code":"ytr654","stock":14},
+{"id":2,"title":"Manzana","description":"descripcion2","price":70,"thumbnail":"Sin imagen","code":"hrr644","stock":11},
+{"id":3,"title":"Naranja","description":"descripcion3","price":80,"thumbnail":"Sin imagen","code":"twe534","stock":15},
+{"id":4,"title":"Durazno","description":"descripcion4","price":70,"thumbnail":"Sin imagen","code":"gdf645","stock":12}]
